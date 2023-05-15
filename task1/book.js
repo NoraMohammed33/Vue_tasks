@@ -7,7 +7,7 @@ books = [
         author: "Noor",
         isbn: 30,
         category: "category1",
-        image: "imgs/4.jpeg",
+        image: "imgs/1.jpg",
         instock:3
     },
     {
